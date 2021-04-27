@@ -4,6 +4,7 @@ AnExplorer All-in-One File Manager
 <a href="https://www.buymeacoffee.com/1hakr" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee" height='50' style='border:0px;height:50px;' ></a>
 
 ![AnExplorer](https://github.com/DWorkS/AnExplorer/raw/master/header.jpg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fryan-sheldrake%2FAnExplorer.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fryan-sheldrake%2FAnExplorer?ref=badge_shield)
 
 AnExplorer File Manager (File Explorer) is an all-in-one file management tools. Best File Explorer for Phones, Tablets, USB Storage, Root Storage, Cloud Storage, Chromecast, Wear OS Watches, Android TV and Chrome OS
 
@@ -85,3 +86,6 @@ License
     limitations under the License.
 
 
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fryan-sheldrake%2FAnExplorer.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fryan-sheldrake%2FAnExplorer?ref=badge_large)
